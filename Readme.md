@@ -36,10 +36,10 @@
 
 ### 🚀 Featured Projects
 
-**[CodeLance](https://github.com/SHAKSHYAM23)** – AI-powered Agentic RAG code intelligence platform. Hybrid retrieval (pgvector + full-text search via RRF) hitting ~93% context precision, with a Redis caching layer cutting cache-hit latency ~99%.
+**[CodeLance](https://github.com/SHAKSHYAM23/CodeLance)** – AI-powered Agentic RAG code intelligence platform. Hybrid retrieval (pgvector + full-text search via RRF) hitting ~93% context precision, with a Redis caching layer cutting cache-hit latency ~99%.
 `Next.js` `Node.js` `PostgreSQL` `Redis` `Gemini API`
 
-**[TicketFlow](https://github.com/SHAKSHYAM23)** – High-concurrency event-driven ticket booking platform. Atomic seat locking with Redis Lua scripts, Kafka + RabbitMQ event orchestration, load-tested to 312 req/s with 1,000+ virtual users.
+**[TicketFlow](https://github.com/SHAKSHYAM23/TicketFlow)** – High-concurrency event-driven ticket booking platform. Atomic seat locking with Redis Lua scripts, Kafka + RabbitMQ event orchestration, load-tested to 312 req/s with 1,000+ virtual users.
 `Kafka` `RabbitMQ` `Socket.io` `Stripe` `Docker`
 
 ---
@@ -60,6 +60,4 @@
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SHAKSHYAM23&show_icons=true&theme=radical" alt="Shakshyam's GitHub stats" />
-</p>
+
